@@ -175,14 +175,13 @@ USA,PA,PA01f,PA01f,PA03/P3,viridissima,39.907981,-77.479870,USA: Pennsylvania: F
 USA,PA,PA07a,PA07a, 1. Lake Placida (vul),vulgaris,40.152509,-76.590153, USA: Pennsylvania: Elizabethtown: Lake Placida (man made lake with in and out flow,0/0/2022,Diane Bridge
 USA,PA,PA08a,PA08a,2 Murray Pond (vul),vulgaris,40.149231,-76.584947,USA: Pennsylvania: Elizabethtown: Murray Pond (vernal pool),0/0/2022,Diane Bridge
 USA,PA,PA09a,PA09a,3. Grubb Lake (hym),hymanae,40.060450,-76.447180,USA: Pennsylvania: West Hempfield Township:  Grubb Lake (former iron quarry with no inflow or outflow),0/0/2022,Diane Bridge
-USA,PA,PA09b,PA09b,4. Grubb Lake (vul),vulagaris,40.060450,-76.447180,USA: Pennsylvania: West Hempfield Township:  Grubb Lake (former iron quarry with no inflow or outflow),0/0/2022,Diane Bridge
+USA,PA,PA09b,PA09b,4. Grubb Lake (vul),vulgaris,40.060450,-76.447180,USA: Pennsylvania: West Hempfield Township:  Grubb Lake (former iron quarry with no inflow or outflow),0/0/2022,Diane Bridge
 USA,PA,PA09c,PA09c,5. Grubb Lake (vir),viridissima,40.060450,-76.447180,USA: Pennsylvania: West Hempfield Township:  Grubb Lake (former iron quarry with no inflow or outflow),0/0/2022,Diane Bridge
 USA,PA,PA09d,PA09d,6. Grubb Lake (oli),oligactis,40.060450,-76.447180,USA: Pennsylvania: West Hempfield Township:  Grubb Lake (former iron quarry with no inflow or outflow),0/0/2022,Diane Bridge
 USA,PA,PA10a,PA10a,7. Speedwell Forge (vul),vulgaris,40.203400,-76.308000,USA: Pennsylvania: Elizabeth Township: Speedwell Forge Lake (reservoir with inflow and outflow),0/0/2022,Diane Bridge
 USA,PA,PA10b,PA10b,8. Speedwell Forge (oli),oligactis,40.203400,-76.308000,USA: Pennsylvania: Elizabeth Township: Speedwell Forge Lake (reservoir with inflow and outflow),0/0/2022,Diane Bridge
 USA,PA,PA11a,PA11a,9. Middletown (hym),hymanae,40.209400,-76.686900,USA: Pennsylvania: Londonderry Township: Middletown Reservoir (reservoir with inflow and outflow),0/0/2022,Diane Bridge
 USA,PA,PA11b,PA11b,10. Middletown (oli),oligactis,40.209400,-76.686900,USA: Pennsylvania: Londonderry Township: Middletown Reservoir (reservoir with inflow and outflow),0/0/2022,Diane Bridge
-USA,SC,1024c,1024c,,renamed 1124c,32.949000,-81.481000,"USA: South Carolina: Swamp along Route 301, ca 0.5 mi N Savannah River",?,Richard Campbell
 USA,SC,1124a,1124a,,vulgaris,32.949000,-81.481000,"USA: South Carolina: Swamp along route 301, ca 0.5 mi N Savannah River",2-Jul-01,Richard Campbell
 USA,SC,1124c,1124c,,vulgaris,32.949000,-81.481000,"USA: South Carolina: Swamp along Route 301, ca 0.5 mi N Savannah River",2-Jul-01,Richard Campbell
 USA,SC,1127a,1127a,,vulgaris,34.03952,-81.21695,USA: South Carolina: Lake Murry Dam (Saluda Dam): west end of dam,2-Jul-01,Richard Campbell
@@ -190,11 +189,9 @@ USA,UT,UT02a,UT02a,,oligactis,37.5197,-112.7671,USA: Utah. Navajo Lake. On aquat
 USA,UT,UT24a,UT24a,,vulgaris,38.678583,-111.596583,USA: Utah. Narrow channel off the Right Fork VM Creek by Black Flat Trailhead (by Forest Service road FS043) ,24-Aug-08,Daniel Martinez
 USA,VA,1970a,1970a,,viridissima,38.011400,-77.898100,USA: Virginia: Louisa Co.: stream 1 mi E Mineral along hwy 618. ,31-May-10,Richard Campbell
 USA,VA,VA01a,VA01a,,vulgaris,38.049000,-78.544000,USA: Virginia: Charlottesville,,Daniel Martínez
-USA,VA,VA02,VA02,DS1,brown,36.62041,-76.550534,USA: Virginia: Great Dismal Swamp National Refuge (Railroad Ditch Road),16-Oct-21,Daniel Martinez
 USA,VA,VA03x,VA03x,DS2,lirosoma,36.691502,-76.358495,USA: Virginia: Dismal Swamp Canal by Dismal Swamp Canal Trail ,17-Oct-21,Daniel Martinez
 USA,VA,VA04x,VA04x,DS3,vulgaris,36.600951,-76.326260,USA: Virginia: Canal by road to Cavalier Wildlife Management Area (off Ballahack Road),17-Oct-21,Daniel Martinez
 USA,VA,VA05x,VA05x,DS4,vulgaris,36.612222,-76.324722,USA: Virginia: Chesapeake: Northwest River (Lake Drummond Causeway),18-Oct-21,Daniel Martinez
-USA,VA,VA06,VA06,DS6,?,36.658333,-76.702500,USA: Virginia: Suffolk: Jones Swamp (Quaker Drive; route 759) ,19-Oct-21,Daniel Martinez
 USA,VA,VA07x,VA07x,LM1 ,vulgaris,38.016944,-78.488056,USA: Virginia: Cahrlotsville: Moores Creek in Jordan Park,3-May-24,Daniel Martinez
 USA,WA,870a,870a,,viridissima,45.6627,-121.9057,"USA: Washington: ca 3 mi SW Stephenson, opposite turnoff to ""Bridge-of-the-Gods.""",15-Jun-00,Richard Campbell
 USA,WA,WA02c,WA02c,WA02,vulgaris,46.631604,-121.265909,USA: Washington: Cold Creek,6-Aug-11,
