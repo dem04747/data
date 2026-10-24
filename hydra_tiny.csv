@@ -11,7 +11,7 @@ USA,AK,AK05,AK05f,,canadensis,62.8840,-145.5292,Alaska: Valdez - Cordova Co.: Pa
 USA,AK,AK06,AK06a,,canadensis,61.0999,-145.8571,"Alaska: Valdez - Cordova Co.: ""Keystone Canyon"".Small pond by route 4. ",17-Jun-05,Daniel Martínez
 USA,AK,AK07,AK07,,canadensis,61.1215,-145.6728,Alaska:  Valdez - Cordova County: Blueberry Lake. At the State Recreation Area near Thompson Pass.,17-Jun-05,Daniel Martínez
 USA,AK,AK08,AK08f,,canadensis,62.4159,-145.3889,Alaska:  Valdez - Cordova County: Poplar Grove Creek on Route 4.,17-Jun-05,Daniel Martínez
-USA,AK,AK09,AK09a,,canadensis?,62.8219,-145.4928,Alaska: Valdez - Cordova County: Meiers Lake.By the boat launch area (not by the house). ,17-Jun-05,Daniel Martínez
+USA,AK,AK09,AK09a,,canadensis,62.8219,-145.4928,Alaska: Valdez - Cordova County: Meiers Lake.By the boat launch area (not by the house). ,17-Jun-05,Daniel Martínez
 USA,AK,AK09,AK09c,,canadensis,62.8219,-145.4928,Alaska: Valdez - Cordova County: Meiers Lake.By the boat launch area (not by the house). ,,Daniel Martínez
 USA,AK,AK09,AK09d,,canadensis,62.8219,-145.4928,Alaska: Valdez - Cordova County: Meiers Lake.By the boat launch area (not by the house). ,,Daniel Martínez
 USA,AK,AK10,AK10a,,canadensis,63.1954,-145.6503,Alaska:  Valdez - Cordova County: Fielding Lake. Small creek north of the lake by State Rec. Site Campground.,17-Jun-05,Daniel Martínez
@@ -29,8 +29,6 @@ USA,AZ,852,852d,,oligactis,34.77943,-111.5154,"USA: Arizona: Stoneman Lake, 35 m
 USA,AZ,AZ01,AZ01a,,vulgaris,35.0190,-111.4068,USA: Arizona. Ashurst Lake (by NFS campground),12-Aug-07,Daniel Martínez
 USA,AZ,AZ01,AZ01b,,vulgaris,35.0190,-111.4068,USA: Arizona. Ashurst Lake (by NFS campground),12-Aug-07,Daniel Martínez
 USA,AZ,AZ03,AZ03a,,vulgaris,32.754040,-109.831116,USA: Arizona: Frye Mesa Reservoir: Creek a bit below the exit from the reservoir. ,,
-USA,AZ,AZ04,AZ04y,LM18B&G,green and brown,31.390000,-110.955278,USA: Arizona: Nogales:  Las Lagunas de Anza,28-May-24,Daniel Martinez
-USA,AZ,AZ04,AZ04a,Brown grew by Rob,Brown,31.390000,-110.955278,USA: Arizona: Nogales:  Las Lagunas de Anza,28-May-24,Daniel Martinez
 USA,CA,1320,1320c,,viridissima,33.160000,-117.048000,USA: California: Escondido: Dixon Lake,2-Oct-02,Richard Campbell
 USA,CA,1322,1322b,,vulgaris,36.806000,-118.202000,USA: California: Independence: Independence Creek at Dehi Park,4-Oct-02,Richard Campbell
 USA,CA,1323,1323a,,vulgaris,36.842000,-118.266000,"USA: California: Oak Creek, at Oak Creek Campground, about 4 mi N Independence",4-Oct-02,Richard Campbell
@@ -54,18 +52,14 @@ USA,CA,CA03a,CA03a,,vulgaris,34.266300,-117.128200,USA: California. Deep Creek (
 USA,CA,CA03b,CA03b,,oligactis,34.266300,-117.128200,USA: California. Deep Creek (San Bernardino Co). ,,Daniel Martínez
 USA,CA,CA05a,CA05a,PHB,oligactis,34.1094,-117.7127,USA: California: Claremont: pHake Lake. ,,Daniel Martínez
 USA,CA,CA05b,CA05b,PHG,viridissima,34.1094,-117.7127,USA: California: Claremont,,Daniel Martínez
-USA,CA,CA06a,CA06a,,,36.320200,-117.521400,USA: Calfornia: near Darwin Falls (Death Valley),21-Mar-08,Daniel Martinez
 USA,CA,CA07a,CA07a,,viridissima,34.459618,-120.022425,"USA: California, El Capitan State Beach: El Capitan Creek",,
-USA,CA,CA08,CA08,,brown and green,36.913476,-121.769855,USA: California: Watsonville Slough. Pond behind Nature Center at Ramsay Park (Harkins Slough Rd. entrance). ,,
-USA,CA,CA09,CA09,,brown,36.509514,-121.766701,USA: California: Garland Ranch Regional Park: Carmel River by park acess on W Carmel Valey Road.,,
-USA,CA,CA10,CA10,,brown,35.326158,-120.490642,USA: California: Santa Magarita Lake (Near Santa Margarita),,
 USA,CA,CA25,CA25a,Hymanae Genome,hymanae,40.1270062,-123.824020,USA: California: South Fork Eel River,,
 USA,CA,CA26,CA26d,UT1,oligactis,37.195556,-118.564722,USA: California: South Fork Bishop Creek,17-Nov-24,Daniel Martinez & Robert Steele
 USA,CA,CA27,CA27a,UT2,oligactis,37.171111,-118.566389,USA: California: South Lake,17-Nov-24,Daniel Martinez & Robert Steele
 USA,CA,CA28,CA28a,UT3,vulgaris,37.244167,-118.595000,USA: California: Middle Fork Bishop Creek,17-Nov-24,Daniel Martinez & Robert Steele
 USA,CA,CA29,CA29a,SAB1.1,oligactis,37.2125,-118.611667,USA: California: Middle Fork Bishop Creek right under the Sabrina Dam ,12-Jun-25,Daniel Martinez & Robert Steele
 USA,CA,CA30,CA30a,SAB3.1,utahensis,37.213012,-118.611428,USA: California: Middle Fork Bishop Creek right under the Sabrina Dam ,19-Jun-25,Daniel Martinez
-USA,CA,CA31a,CA31a,SAB4.1,utahensis for genome,37.148764,-118.5574722,USA: California: Creek connecting Bull Lake and Long Lake (where the Bishop Pass trail crosses the creek),21-Jun-25,Daniel Martinez
+USA,CA,CA31a,CA31a,SAB4.1,utahensis,37.148764,-118.5574722,USA: California: Creek connecting Bull Lake and Long Lake (where the Bishop Pass trail crosses the creek),21-Jun-25,Daniel Martinez
 USA,CO,1037b,1037b,,oligactis,37.74028,-107.6833,"USA: Colorado: Molas Lake, ca 8 mi S Silverton",12-Jul-00,Richard Campbell
 USA,CO,1143a,1143a,,vulgaris,39.655000,-105.878000,USA: Colorado: Alpine pond 0.5 mi W Loveland Pass on I-70,9-Jul-01,Richard Campbell
 USA,CO,CO01a,CO01a,,oligactis,37.5889,-108.5977,USA: Colorado. Dolores River (downstream from the McPhee Reservoir),15-Aug-07,Daniel Martínez
@@ -99,8 +93,8 @@ USA,FL,1108a,1108a,,vulgaris,28.9883,-82.3494,"USA: Florida: Withlacoochee River
 USA,FL,1110a,1110a,,vulgaris,28.149000,-82.237000,"USA: Florida: Hillsborough River, in Hillsborough River State Park",29-Jun-01,Richard Campbell
 USA,FL,1113a,1113a,,vulgaris,27.46003,-82.11095,"USA: Florida: Myakka River at crossing of highway 64, near town of Myakka Head",29-Jun-01,Richard Campbell
 USA,FL,FL12,FL12,LM14,viridissima,26.338333,-80.628611,USA: Florida: Harold A. Campbell Public Use Area,20-May-24,Daniel Martinez
-USA,FL,FL14,FL14,LM16,Hymanae,29.745556,-83.342778,USA: Florida: Steinhatchee River near Steinhatchee Falls,22-May-24,Daniel Martinez
-USA,FL,FL15,FL15,LM17,Vulgaris,30.633889,-87.021667,USA: Florida: Blackwater River. Floating docks at Whiting Park,23-May-24,Daniel Martinez
+USA,FL,FL14,FL14,LM16,hymanae,29.745556,-83.342778,USA: Florida: Steinhatchee River near Steinhatchee Falls,22-May-24,Daniel Martinez
+USA,FL,FL15,FL15,LM17,vulgaris,30.633889,-87.021667,USA: Florida: Blackwater River. Floating docks at Whiting Park,23-May-24,Daniel Martinez
 USA,GA,1117c,1117c,,vulgaris,31.1524,-83.5360,"USA: Georgia: Nell Purvis Road, 0.3 mi S Route 37, about 6 mi W Adel: in stream emerging from culvert on W side of road",30-Jun-01,Richard Campbell
 USA,GA,1777a,1777a,,viridissima,30.524300,-82.020900,"USA: Georgia: Charlton Co: 1 mi E. St George, along highway 94.",29-May-07,Richard Campbell
 USA,GA,1782a,1782a,,vulgaris,33.784033,-84.377100,USA: Georgia: Dekalb Co: Atlanta: Piedmont Park: Lake Calra Meer (Piedmont Park Lake) Westernmost end.,2-Jun-07,Richard Campbell
@@ -146,12 +140,11 @@ USA,MA,MA03a,MA03a,WH1,hymanae,41.557268,-70.606835,USA: Massachusetts: Falmouth
 USA,MA,MA03b,MA03b,WH2,vulgaris,41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
 USA,MA,MA03c,MA03c,WH3,vulgaris,41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
 USA,MA,MA03d,MA03d,WH4,vulgaris,41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
-USA,MA,MA03e,MA03e,WH5oli,canadensis (genome),41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
-USA,MA,MA03f,MA03f,,viridissima (genome),41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
-USA,MA,MA03g,MA03g,WH5 Brown,NA,41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
-USA,MA,MA04a,MA04a,,hymanae/can?,41.557297,-70.60687,USA: Massachusetts: Falmouth: Morse Pond ,12-Apr-25,Daniel Martinez
-USA,ME,ME02a,ME02a,NEN8.2,Green,44.565544,-69.66652298,USA: Maine: Johnson Pond (Colby College),,
-USA,ME,ME02x,ME02x,NEN8xG,Green,44.565544,-69.66652298,USA: Maine: Johnson Pond (Colby College),,
+USA,MA,MA03e,MA03e,WH5oli,canadensis,41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
+USA,MA,MA03f,MA03f,,viridissima,41.557268,-70.606835,USA: Massachusetts: Falmouth: Morse Pond ,5-Jul-18,
+USA,MA,MA04a,MA04a,,hymanae,41.557297,-70.60687,USA: Massachusetts: Falmouth: Morse Pond ,12-Apr-25,Daniel Martinez
+USA,ME,ME02a,ME02a,NEN8.2,viridissima,44.565544,-69.66652298,USA: Maine: Johnson Pond (Colby College),,
+USA,ME,ME02x,ME02x,NEN8xG,viridissima,44.565544,-69.66652298,USA: Maine: Johnson Pond (Colby College),,
 USA,MT,826a,826a,,viridissima,47.03568,-108.8085,USA: Montana: 1 mi N Grassrange: roadside pond,30-Aug-99,Richard Campbell
 USA,MT,961a,961a,,oligactis,48.13187,-114.0277,USA: Montana: Echo Lake; at bridge in road dike near NE end,2-Jul-00,Richard Campbell
 USA,MT,961c,961c,,hymanae,48.13187,-114.0277,USA: Montana: Echo Lake; at bridge in road dike near NE end,2-Jul-00,Richard Campbell
@@ -159,8 +152,8 @@ USA,MT,965a,965a,,utahensis,48.3699,-114.0351,"USA: Montana: Pond across road fr
 USA,MT,965d,965d,,hymanae,48.3699,-114.0351,"USA: Montana: Pond across road from Lion Lake, 2 mi SE Hungry Horse",3-Jul-00,Richard Campbell
 USA,MT,977a,977a,,viridissima,46.5839,-112.5527,USA: Montana: Stream ca 3 mi E Avon,4-Jul-00,Richard Campbell
 USA,MT,N31a,N31a,,utahensis,48.2,-113.9,USA: Montana: Jewel Basin Road,,
-USA,NC,NC01x,NC01x,DS5,Lirosoma,36.421944,-76.347500,USA: North Carolina: Elizabeth City:  Pasquotank River,18-Oct-21,Daniel Martinez
-USA,NC,NC01a,NC01a,,Lirosoma,36.421944,-76.347500,USA: North Carolina: Elizabeth City:  Pasquotank River,18-Oct-21,Daniel Martinez
+USA,NC,NC01x,NC01x,DS5,lirosoma,36.421944,-76.347500,USA: North Carolina: Elizabeth City:  Pasquotank River,18-Oct-21,Daniel Martinez
+USA,NC,NC01a,NC01a,,lirosoma,36.421944,-76.347500,USA: North Carolina: Elizabeth City:  Pasquotank River,18-Oct-21,Daniel Martinez
 USA,ND,815a,815a,,viridissima,46.8861,-99.4462,USA: North Dakota: 1.5 mi E Crystal Springs; pond along S side of road,28-Aug-99,Richard Campbell
 USA,NJ,1988b,1988b,,viridissima,41.107300,-74.582100,USA: New Jersey: Somerset Co: Franklin: Franklin  ,7-Jun-10,Richard Campbell
 USA,NJ,1996c,1996c,,viridissima,41.238900,-74.735900,USA: New Jersey: Stokes Forest: Parker Brook at crossing of Sunrise Mountain Road. ,8-Jun-10,Richard Campbell
